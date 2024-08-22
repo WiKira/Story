@@ -1,0 +1,3 @@
+[submodule "Wordle-Game"]
+	path = Wordle-Game
+	url = https://github.com/ritik48/Wordle-Game.git
