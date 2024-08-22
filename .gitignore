@@ -1,0 +1,7 @@
+secrets.txt
+
+#This is a comment
+#Log files
+*.log
+
+./bin
